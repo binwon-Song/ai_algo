@@ -1,0 +1,14 @@
+names:
+- Flashdisk
+- Mouse
+- cup
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: moouse
+  url: https://universe.roboflow.com/mlyolotask/moouse/dataset/4
+  version: 4
+  workspace: mlyolotask
+test: test/images
+train: train/images
+val: valid/images
